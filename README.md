@@ -1,5 +1,6 @@
 - 👋 Hi, I’m zahid
-- 👀 I’m interested in microservices, and the full stack technologies comprising microprofile , Reactjs, RDBMS Postgres 
+- 👀 I’m interested in microservices, and the full stack technologies comprising microprofile , Reactjs, RDBMS Postgres,
+      because  I have an eye for Industrial Strength architectures.Whats good for me is good for you. 
 - 🌱 I’m currently learning  Microprofile on openliberty Reactjs , RDBMS Postgres
 - 💞️ I’m looking to collaborate on  e-commerce projects
 - 📫 How to reach me zahidr1000@gmail.com
