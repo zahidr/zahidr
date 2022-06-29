@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zahid
-- 👀 I’m interested in full stack technologies comprising microprofile , Reactjs, RDBMS Postgres.
+- 👀 I’m interested in full stack technologies comprising microprofile [Business Logic], Reactjs [GUI], RDBMS Postgres [Datastore].
       My approach is to first find the architecture before learning to code it.
       The Ideal architecture must be simple , flexible and opensource (free professional product documentation).
       Examples of simple are, US DOD (Department of Defence) adopting Ada,
