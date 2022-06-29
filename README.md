@@ -1,9 +1,12 @@
 - 👋 Hi, I’m zahid
 - 👀 I’m interested in microservices,full stack technologies comprising microprofile , Reactjs, RDBMS Postgres.
-      My approach is first find the architecture before learning to code it.
-      The Ideal architecture must be both simple and flexible. 
-      By simple I mean the reasons US DOD (Department of Defence) adopted Ada.
-      Flexible enough to deal with real world e-commerce Business challenges i.e Responsive timing.       
+      My approach is first to find the architecture before learning to code it.
+      The Ideal architecture must be simple , flexible and opensource (free professional product documentation).
+      Examples of simple are, US DOD (Department of Defence) adopting Ada,
+      another example would be the ability to break down complex business domain
+      so that it can fit inside the head of an average developer to help with software maintenance.
+      Flexible enough to deal with real world e-commerce Business challenges i.e Response timing.
+      I learned these concepts from my observations whilst working in British Software development companies for five years.      
 - 🌱 I’m currently learning  Microprofile on openliberty Reactjs , RDBMS Postgres
 - 💞️ I’m looking to collaborate on  e-commerce projects
 - 📫 How to reach me zahidr1000@gmail.com
