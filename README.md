@@ -5,7 +5,7 @@
       Examples of simple are, US DOD (Department of Defence) adopting Ada,
       the ability to break down complex business domain so that it can fit inside the head of an average
       developer to help with software maintenance.
-      Flexible enough to deal with real world e-commerce Business challenges i.e Response timing.
+      Flexible enough to deal with real world e-commerce English challenges i.e Response timing.
       I learned these concepts from my observations whilst working in British Software development companies for five years.      
 - 🌱 I’m currently learning  Microprofile on openliberty Reactjs , RDBMS Postgres
 - 💞️ I’m looking to collaborate on  e-commerce projects
