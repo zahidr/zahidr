@@ -4,7 +4,7 @@
       The Ideal architecture must be simple, flexible and opensource (free professional product documentation).
       A definition of simple is, US DOD (Department of Defence)'s decision to adopt one programming language, Ada.
       The ability to break down complex business domain.
-      Flexible enough to deal with real world e-commerce challenges i.e Response timing.
+      Flexible enough to deal with real world e-commerce consumer demands i.e Response timing.
       I adopted these concepts whilst working in English Software development companies for five years.      
 - 🌱 I’m currently learning  Microprofile on openliberty Reactjs , RDBMS Postgres
 - 💞️ I’m looking to collaborate on  e-commerce projects
