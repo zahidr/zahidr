@@ -6,7 +6,8 @@
       The ability to break down complex business domain.
       Flexible enough to deal with real world e-commerce consumer demands i.e Response timing.
       I adopted these concepts whilst working in English Software development companies for five years.
-      Five years was enough for me see three sides Software development. The good, bad and the ugly.     
+      Five years was enough for me see three sides of Software development. The good, the bad and the ugly.
+      If you want the good while avoiding the bad and ugly then I am the one you seek.  
 - 🌱 I’m currently learning  Microprofile on openliberty Reactjs , RDBMS Postgres
 - 💞️ I’m looking to collaborate on  e-commerce projects
 - 📫 How to reach me zahidr1000@gmail.com
