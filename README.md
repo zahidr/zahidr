@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zahid
 - 👀 I’m interested in full stack technologies comprising microprofile [Business Logic], Reactjs [GUI], RDBMS Postgres [Datastore].
-      My approach is to first find the ideal architecture before learning to code it.
+      My approach to gaining useful skills is to first find the ideal architecture before learning to code it.
       The Ideal architecture must be simple, flexible and opensource (free professional product documentation).
       A definition of simple is, US DOD (Department of Defence)'s decision to adopt one programming language, Ada.
       The ability to break down complex business domain.
