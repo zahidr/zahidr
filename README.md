@@ -7,9 +7,9 @@
       Flexible enough to deal with real world e-commerce consumer demands i.e Response timing.
       I adopted these concepts whilst working in English Software development companies for five years.
       Nature of these companies varied from realtime Aerospace,Customer Billing system,Software house.  
-      Five years were ample for me to gain understanding of building Industrial strength.
+      Five years were ample for me to gain the required understanding for building Industrial strength Applications.
       Hence I look for the right architecture first then teach myself to code using freely available
-      professional product documentation.
+      professional product documentation,may be invest in a book or two on the desired architecture.
 - 🌱 I’m currently learning  Microprofile on IBM openliberty Reactjs , RDBMS Postgres
 - 💞️ I’m looking to collaborate on  e-commerce projects
 - 📫 How to reach me zahidr1000@gmail.com
