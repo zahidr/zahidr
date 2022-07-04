@@ -10,7 +10,7 @@
       Five years were ample for me to gain understanding of building Industrial strength.
       Hence I look for the right architecture first then teach myself to code using freely available
       professional product documentation.
-- 🌱 I’m currently learning  Microprofile on openliberty Reactjs , RDBMS Postgres
+- 🌱 I’m currently learning  Microprofile on IBM openliberty Reactjs , RDBMS Postgres
 - 💞️ I’m looking to collaborate on  e-commerce projects
 - 📫 How to reach me zahidr1000@gmail.com
 
