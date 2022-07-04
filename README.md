@@ -6,8 +6,8 @@
       The ability to break down complex business domain.
       Flexible enough to deal with real world e-commerce consumer demands i.e Response timing.
       I adopted these concepts whilst working in English Software development companies for five years.
-      Five years were ample for me to realise there are three sides to Software development.
-      The good, the bad and the ugly and I had the skills to identify each side. 
+      Nature of these companies varied from realtime Aerospace,Customer Billing system,Software house.  
+      Five years were ample for me to gain understanding of building Industrial strength.
       Hence I look for the right architecture first then teach myself to code using freely available
       professional product documentation.
 - 🌱 I’m currently learning  Microprofile on openliberty Reactjs , RDBMS Postgres
