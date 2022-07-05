@@ -1,10 +1,9 @@
 - 👋 Hi, I’m zahid
-- 👀 I’m interested in full stack technologies comprising microprofile [Business Logic], Reactjs [GUI], RDBMS Postgres [Datastore].
+- 👀 I’m interested in full stack technologies comprising microprofile [Business Logic], Reactjs [GUI], RDBMS Postgres [Database].
       The Ideal architecture must be simple, flexible and opensource (free professional product documentation).
       An example of simple is, US DOD (Department of Defence)'s decision to adopt one programming language, Ada.
-      The Business Domain will always be complex for the developer, so the architecture must be flexible enough
-      to allow for break down of the business domain. Agile enough to deal with real world e-commerce consumer demands
-      i.e Response timing, detection of loosely coupled components failure and recovery.
+      The architecture must be flexible enough to allow for break down of Complex business domain.
+      Responsive to end user demands, institution of failure & recovery for loosely coupled components.
       I adopted these concepts whilst working in English Software development companies for five years.
       Nature of these companies varied from realtime Aerospace,Customer Billing system,Software house.  
       Five years were ample for me to gain the required understanding needed for building Industrial strength Applications.
