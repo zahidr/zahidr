@@ -10,8 +10,9 @@
       Hence I look for the right architecture first then teach myself to code that architecture using freely available
       professional product documentation, may be even invest in a book or two on the selected architecture.
 - 🌱 I’m currently skilling up without supervision  Microprofile on IBM openliberty Reactjs , RDBMS Postgres
+      comparatively there are University degree students learning to code without the understanding of architectural considerations.  
 - 💞️ I’m looking to collaborate on  e-commerce projects
-- 📫 How to reach me zahidr1000@gmail.com
+- 📫 How to reach me zahidr1000@gmail.com compa
 
 <!---
 zahidr/zahidr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
