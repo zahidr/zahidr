@@ -6,11 +6,11 @@
       Responsive to end user demands, institution of failure & recovery for loosely coupled components.
       I adopted these concepts whilst working in English Software development companies for five years.
       Nature of these companies varied from realtime Aerospace,Customer Billing system,Software house.  
-      Five years were ample for me to gain the required understanding needed for building Industrial strength Applications.
+      Five years were ample for me to gain the required due diligence skills needed for building Industrial strength Applications.
       Hence I look for the right architecture first then teach myself to code that architecture using freely available
       professional product documentation, may be even invest in a book or two on the selected architecture.
 - 🌱 I’m currently skilling up without supervision  Microprofile on IBM openliberty Reactjs , RDBMS Postgres
-      comparatively there are University degree students learning to code without the understanding of architectural considerations.  
+      comparatively there are University degree students learning to code without the awareness of architectural considerations.  
 - 💞️ I’m looking to collaborate on  e-commerce projects
 - 📫 How to reach me zahidr1000@gmail.com compa
 
