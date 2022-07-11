@@ -9,8 +9,10 @@
       Five years were ample for me to gain the required due diligence skills needed for building Industrial strength Applications.
       Hence I look for the right architecture first then teach myself to code that architecture using freely available
       professional product documentation, may be even invest in a book or two on the selected architecture.
-- 🌱 I’m currently skilling up without supervision  Microprofile on IBM openliberty Reactjs , RDBMS Postgres
-      comparatively there are University degree students learning to code without the awareness of architectural considerations.  
+- 🌱 The type of applications found here are an exercise in prototyping,
+      Prototyping is my process to prepare myself to build Industrial Applications,"to hit the ground running" as they say.
+      Therefore it is critical to have Free access to commercial Tools.      
+      
 - 💞️ I’m looking to collaborate on  e-commerce projects
 - 📫 How to reach me zahidr1000@gmail.com compa
 
