@@ -14,6 +14,8 @@
 - 🌱 The Collections of Apps found at this Github account are exercises in prototyping.
       The purpose of protoyping is to test application threads,and of course when testing one is likely to find software BUGS i.e.
       https://github.com/OpenLiberty/open-liberty/issues/21547
+      Apart from prototypes,the are also Apps which are a collection of reusable code representing examples of common functionality
+      in applications i.e. Login,Register Forms. 
  
 - 💞️ I’m looking to collaborate on  e-commerce projects      
 - 📫 How to reach me zahidr1000@gmail.com
