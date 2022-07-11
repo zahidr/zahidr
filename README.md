@@ -11,13 +11,10 @@
       Hence I look for the right architecture first then teach myself to code that architecture using freely available
       professional product documentation, may be even invest in a book or two on the selected architecture.
 
-- 🌱 The Collections Apps found here are exercises in prototyping,
-      Prototyping is my process to prepare myself to build Industrial Applications,"to hit the ground running" as they say.
-      Therefore it is critical to have Free access to commercial Tools.
-      
-      During the process of Prototyping it is not unusual to find Software Bugs.
+- 🌱 The Collections Apps found at this Github account are exercises in prototyping.
+      The purpose of protoyping is to test application threads,      
+      and of course when testing one is likely to find software BUGS i.e.
       https://github.com/OpenLiberty/open-liberty/issues/21547
-      I guess not many people do prototyping.
  
 - 💞️ I’m looking to collaborate on  e-commerce projects
       
