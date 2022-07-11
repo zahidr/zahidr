@@ -12,13 +12,11 @@
       professional product documentation, may be even invest in a book or two on the selected architecture.
 
 - 🌱 The Collections Apps found at this Github account are exercises in prototyping.
-      The purpose of protoyping is to test application threads,      
-      and of course when testing one is likely to find software BUGS i.e.
+      The purpose of protoyping is to test application threads,and of course when testing one is likely to find software BUGS i.e.
       https://github.com/OpenLiberty/open-liberty/issues/21547
  
-- 💞️ I’m looking to collaborate on  e-commerce projects
-      
-- 📫 How to reach me zahidr1000@gmail.com compa
+- 💞️ I’m looking to collaborate on  e-commerce projects      
+- 📫 How to reach me zahidr1000@gmail.com
 
 <!---
 zahidr/zahidr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
