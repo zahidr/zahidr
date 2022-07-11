@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zahid
-- 👀 I’m interested in full stack technologies comprising microprofile [Business Logic], Reactjs [GUI], RDBMS Postgres [Database].
+- 👀 I’m interested in full stack technologies comprising microprofile [Business Logic,DB Access], Reactjs [GUI,LOGIN], RDBMS Postgres [Database].
       The Ideal architecture must be simple, flexible and opensource [free access to professional product documentation].
       An example of simple is, US DOD (Department of Defence)'s decision to adopt one programming language, Ada.
       The architecture must be flexible enough to allow for break down of Complex business domain.
