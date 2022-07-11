@@ -11,7 +11,7 @@
       Hence I look for the right architecture first then teach myself to code that architecture using freely available
       professional product documentation, may be even invest in a book or two on the selected architecture.
 
-- 🌱 The Collections Apps found at this Github account are exercises in prototyping.
+- 🌱 The Collections of Apps found at this Github account are exercises in prototyping.
       The purpose of protoyping is to test application threads,and of course when testing one is likely to find software BUGS i.e.
       https://github.com/OpenLiberty/open-liberty/issues/21547
  
