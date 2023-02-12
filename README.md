@@ -1,8 +1,8 @@
 - 👋 Hi, I’m zahid
 
-- 👀  My workspace is Application Developer where we work with
+- 👀  My workspace is Application Developer, working with
 -   paradigms , frameworks & Application Generators. 
-- 🌱 Current interest is React.
+- 🌱 Current interest is REACT.
 -  React is all about composition 
 -  software development is, in essence, the process of breaking a problem down into
 -  smaller problems, implementing solutions for those smaller problems, and then
