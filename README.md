@@ -1,15 +1,15 @@
 - 👋 Hi, I’m zahid
-- 👀  My workspace is Application Developer, working with
+- 👀 My workspace is Application Developer, working with
 -   paradigms , frameworks & Application Generators to achieve Rapid Application Development. 
-- 🌱 Current Objective is to develop muscle memory in REACT.
--  React is all about composition that is why I am so it.
--  This Github is mainly a collection of React prototypes, I can use as reference to 
--  implement frontend solutions for any project aswell as a few samples frameworks I am interested.
--   Java Microprofile,ROS (Robot Operating System) , 
--   Further details of my skills & aspirations,interests and experiencies can be found at
--    www.backbutton.org 
+- 🌱 Current focus is REACT with an Objective to develop muscle memory in it.
+-  React is all about composition that is why I love it.
+-  This Github is a collection of React prototypes, I can use as reference to 
+-  implement frontend solutions for any project. My interest go beyond React front end development, 
+-  two of which are Java Microprofile,ROS (Robot Operating System) , 
+-  Further details of my skills & aspirations,interests and experiencies can be found at
+-  www.backbutton.org 
 - 💞️ I’m looking to collaborate on e-commerce projects as ReactJS frontend developer
--   bring priceless commercial experience and can set any project on the right.       
+-   bringing priceless commercial experience to the table and can offer guidance if needed on a consultancy level.
 - 📫 I can be reached at zahidr1000@gmail.com
 
 <!---
