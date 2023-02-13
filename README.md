@@ -1,10 +1,11 @@
 - 👋 Hi, I’m zahid
 - 👀 My workspace is Application Developer, working with
 -   paradigms , frameworks & Application Generators to achieve Rapid Application Development. 
-- 🌱 Current focus is REACT with an Objective to develop muscle memory in it.
--  React is all about composition that is why I love it.
+- 🌱 REACT is all about composition that is why I love it.
+-  Current Objective to develop muscle memory in React.
 -  This Github is a collection of React prototypes, I can use as reference to 
--  implement frontend solutions for any project. My interest go beyond React front end development, 
+-  implement frontend solutions for any project.
+-   My interest go beyond React frontend development, 
 -  two of which are Java Microprofile,ROS (Robot Operating System) , 
 -  Further details of my skills & aspirations,interests and experiencies can be found at
 -  www.backbutton.org 
