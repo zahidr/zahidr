@@ -1,7 +1,7 @@
 - 👋 Hi, I’m zahid
 - 👀 My workspace is Application Development,paradigms which involves working with frameworks & Application Generators to achieve Rapid Application Development. 
 -  www.backbutton.org 
-- 🌱 This is my Repository of REACT components for use on projects.
+- 🌱 This Repository is a collection of REACT components for use on projects.
 
 - Components break down the UI into smaller independent components. Components are composed with other components to create greater components, and so on until they eventually complete the whole UI.
 
