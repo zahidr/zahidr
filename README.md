@@ -1,6 +1,5 @@
 - 👋 Hi, I’m zahid
-- 👀 My workspace is Application Developer, working with paradigms , frameworks &
--  Application Generators to achieve Rapid Application Development. 
+- 👀 My workspace is Application Developer, working with paradigms , frameworks & Application Generators to achieve Rapid Application Development. 
 - 🌱 Repository of REACT components for use on projects.
 
 - Components break down the UI into smaller independent components. Components are composed with other components to create greater components, and so on until they eventually complete the whole UI.
