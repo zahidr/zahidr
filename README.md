@@ -6,7 +6,7 @@
 
 - Software development is, in essence, the process of breaking a problem down into smaller problems, implementing solutions for those smaller problems, and then composing those solutions to form partial solutions, and so on, until eventually completing the whole solution.
 
--   My other interests Java Microprofile,ROS (Robot Operating System) , 
+-   My other interests are Java Microprofile,ROS (Robot Operating System) , 
 -  Further details of my skills & aspirations,interests and experiencies can be found at
 -  www.backbutton.org 
 - 📫 I can be reached at zahidr1000@gmail.com
