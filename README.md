@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zahid
-- 👀 My workspace is Application Development,paradigms which involves working with frameworks & Application Generators to achieve Rapid Application Development. 
+- 👀 My workspace is Application Development, it existence is found in paradigms, frameworks & Application Generators to achieve Rapid Application Development. 
 -  www.backbutton.org 
 - 🌱 This Repository is a collection of REACT components for use on projects.
 
