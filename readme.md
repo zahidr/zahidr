@@ -1,4 +1,4 @@
-# Prototype Application of GraphQL Node JS Mysql Apollo Graphql Server
+# Prototype Application GraphQL Node Mysql Apollo Graphql Server
 
 ## setup 
 ### npm init --yes
@@ -11,7 +11,7 @@
 
 ## adminer  http://localhost:8080
 
-## login 
+## login values 
 ### server  : <your_ip>
 ### Username: user
 ### Password: user
